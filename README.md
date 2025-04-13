@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="filter_kraken2_report logo" width="200"/>
+</p>
+
 # filter_kraken2_report
 
 A Python tool for filtering [Kraken2](https://ccb.jhu.edu/software/kraken2/) reports by removing specified taxa and all their descendants. Useful for excluding known contaminants, host sequences, or unwanted clades from downstream analysis.
